@@ -68,3 +68,4 @@ License
  [3]: https://search.maven.org/remote_content?g=com.squareup.okhttp&a=okhttp&v=LATEST
  [4]: https://search.maven.org/remote_content?g=com.squareup.okhttp&a=mockwebserver&v=LATEST
  [snap]: https://oss.sonatype.org/content/repositories/snapshots/
+# platform_external_okhttp
